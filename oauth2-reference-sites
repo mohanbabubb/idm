@@ -2,3 +2,4 @@ oauth2
 https://aaronparecki.com/oauth-2-simplified/#web-server-apps
 https://requests-oauthlib.readthedocs.io/en/latest/examples/real_world_example.html
 http://docs.authlib.org/en/latest/api/client.html#authlib.client.OAuth2Session.fetch_access_token
+https://pythonexample.com/snippet/python/simple-flask-authpy_charlesreid1_python
